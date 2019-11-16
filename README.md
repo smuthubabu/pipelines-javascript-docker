@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/WaveSystems/ERAS%20Cloud/_apis/build/status/smuthubabu.pipelines-javascript-docker?branchName=master)](https://dev.azure.com/WaveSystems/ERAS%20Cloud/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
